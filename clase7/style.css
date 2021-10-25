@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(218, 218, 58);
+}
+
+@media only screen and (max-width: 600px){
+    body{
+        background-color: red;
+    }
+}
